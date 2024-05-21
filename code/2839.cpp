@@ -7,7 +7,7 @@ int main()
     cin >> input;
     int fivB = 0;
     int thB = 0;
-    cout << input << endl;
+
     fivB = input / 15 * 3;
     input = input % 15;
     if (fivB != 0)

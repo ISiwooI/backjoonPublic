@@ -2,6 +2,7 @@
 #include <queue>
 #include <vector>
 #include <map>
+#include <list>
 using namespace std;
 char grap[501][501] = {
     0,
